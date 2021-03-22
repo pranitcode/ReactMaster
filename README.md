@@ -5,3 +5,4 @@
 3. bind(), call(), and apply() in JavaScript ✔ = https://dev.to/rajatmehra05/bind-call-and-apply-in-javascript-3ml
 4. How to fetch data in React  ✔ = https://www.robinwieruch.de/react-fetching-data   Axios = https://github.com/axios/axios
 5. React-Redux Flow, Terminologies, and Example ✔ = https://dev.to/bouhm/react-redux-flow-terminologies-and-example-104b
+6. Adding Pagination to ReactJS ✔ = https://academind.com/tutorials/reactjs-pagination/
