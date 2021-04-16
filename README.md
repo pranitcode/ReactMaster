@@ -7,3 +7,4 @@
 5. React-Redux Flow, Terminologies, and Example ✔ = https://dev.to/bouhm/react-redux-flow-terminologies-and-example-104b
 6. Adding Pagination to ReactJS ✔ = https://academind.com/tutorials/reactjs-pagination/
 7. React-redux ✔ = https://youtu.be/wcXTCG8zMhY
+8. Js book https://eloquentjavascript.net/
