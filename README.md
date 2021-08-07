@@ -10,3 +10,4 @@
 8. Js book ✔ https://eloquentjavascript.net/
 9. React native 👍 https://kadikraman.github.io/react-native-v2/intro 
 10. Top 4 Reasons to Use Mongoose with MongoDB ✨ https://www.stackchief.com/blog/Top%204%20Reasons%20to%20Use%20Mongoose%20with%20MongoDB
+11. virtual mongoose: https://www.geeksforgeeks.org/mongoose-virtuals/   and  https://mongoosejs.com/docs/tutorials/virtuals.html
