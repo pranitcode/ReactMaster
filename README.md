@@ -12,3 +12,4 @@
 10. Top 4 Reasons to Use Mongoose with MongoDB ✨ https://www.stackchief.com/blog/Top%204%20Reasons%20to%20Use%20Mongoose%20with%20MongoDB
 11. virtual mongoose: https://www.geeksforgeeks.org/mongoose-virtuals/   and  https://mongoosejs.com/docs/tutorials/virtuals.html
 12. populating virtuals :  https://mongoosejs.com/docs/tutorials/virtuals.html or https://www.geeksforgeeks.org/how-to-populate-virtuals-to-a-mongoose-model-using-node-js/
+13. free reso https://www.michael-hall.me/links, 
